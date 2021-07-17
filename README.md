@@ -1,5 +1,5 @@
 # Loan-prediction-MLproject
-Loan prediction project using ML 
+## This Project helps the user to predict the loan Eligibility
 # Code contributed by
 ## A.Likhita
 ## G.L.Supraja
